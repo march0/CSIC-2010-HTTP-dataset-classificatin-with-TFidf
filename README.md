@@ -4,11 +4,11 @@
 
 **Normal request top features**
 
-![Normal request](./figs/normal.png)
+![Normal request](./figures/normal.png)
 
 **Anomalous request top features**
 
-![Anomalous request](./figs/anomalous.png)
+![Anomalous request](./figures/anomalous.png)
 
 ## Results with a Linear SVM
 ROC-AUC score : 0.9333679153693484
