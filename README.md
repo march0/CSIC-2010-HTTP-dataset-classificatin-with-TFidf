@@ -11,7 +11,7 @@
 ![Anomalous request](./figures/anomalous.png)
 
 ## Results with a Linear SVM
-ROC-AUC score : 0.9333679153693484
+ROC-AUC score : 0.933
 
 Confusion Matrix: 
 
